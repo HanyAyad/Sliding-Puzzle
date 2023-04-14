@@ -8,6 +8,7 @@
     <version>1.0</version>
     <modules>
         <module>sliding-puzzle-state</module>
+        <module>sliding-puzzle-solver</module>
     </modules>
     <packaging>pom</packaging>
     <developers>
